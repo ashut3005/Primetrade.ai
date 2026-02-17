@@ -169,11 +169,3 @@ Backend runs on:
 ```bash
 http://localhost:5000
 ```
-
-
-
-
-
-```
-
-scalable systems.fdsafsdfsdafffgg
